@@ -6,10 +6,18 @@ O desafio é conseguir rodar o o setoolkit e criar um clone do facebook, usando 
 
 
 ------------Ferramentas ultilizada na ação do ataque:---------------
--Setoolkit
--Kali Linux
--Windows
--Navegador
 
 
- facebook, vamos digitar a URL : http://www.facebook.com
+
+
+
+
+-Setoolkit-
+-Kali Linux-
+-Windows-
+-Navegador-
+
++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++ URL : http://www.facebook.com
